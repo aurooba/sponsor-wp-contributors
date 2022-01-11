@@ -1,2 +1,7 @@
-# sponsor-wp-contributors
-Sponsor WordPress contributors working hard to build WordPress
+# Sponsor WordPress Contributors
+
+Let's invest in the folks who create the software that empowers us to create a living on the internet.
+
+## Contributors
+
+Coming soon.
