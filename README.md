@@ -4,4 +4,7 @@ Let's invest in the folks who create the software that empowers us to create a l
 
 ## Contributors
 
-Coming soon.
+[Andy Fragen](https://thefragens.com/)
+  - Twitter: [@aurooba](https://twitter.com/andyfragen)
+  - WordPress: [@aurooba](https://profiles.wordpress.org/afragen/)
+  - Sponsor: [GitHub Sponsor Program](https://github.com/sponsors/afragen)
