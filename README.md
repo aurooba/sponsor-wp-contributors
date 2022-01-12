@@ -13,3 +13,8 @@ Let's invest in the folks who create the software that empowers us to create a l
   - Twitter: [@benUNC](https://twitter.com/benunc)
   - WordPress: [@benmeredithgmailcom](https://profiles.wordpress.org/benmeredithgmailcom/)
   - Sponsor: [GiveWP Donation Page](https://benlikes.us/donate)
+
+[John James Jacoby](https://jjj.blog/)
+  - Twitter: [@JJJ](https://twitter.com/JJJ)
+  - WordPress: [@jjj](https://profiles.wordpress.org/jjj/)
+  - Sponsor: [GitHub Sponsor Program](https://github.com/sponsors/JJJ)
