@@ -8,3 +8,8 @@ Let's invest in the folks who create the software that empowers us to create a l
   - Twitter: [@andyfragen](https://twitter.com/andyfragen)
   - WordPress: [@afragen](https://profiles.wordpress.org/afragen/)
   - Sponsor: [GitHub Sponsor Program](https://github.com/sponsors/afragen)
+
+[Ben Meredith](https://benandjacq.com/)
+  - Twitter: [@benUNC](https://twitter.com/benunc)
+  - WordPress: [@benmeredithgmailcom](https://profiles.wordpress.org/benmeredithgmailcom/)
+  - Sponsor: [GiveWP Donation Page](https://benlikes.us/donate)
