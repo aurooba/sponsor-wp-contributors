@@ -8,3 +8,8 @@ Let's invest in the folks who create the software that empowers us to create a l
   - Twitter: [@andyfragen](https://twitter.com/andyfragen)
   - WordPress: [@afragen](https://profiles.wordpress.org/afragen/)
   - Sponsor: [GitHub Sponsor Program](https://github.com/sponsors/afragen)
+
+[Julio Potier](https://secupress.me/)
+  - Twitter: [@secupress](https://twitter.com/SecuPress)
+  - WordPress: [@juliobox](https://profiles.wordpress.org/juliobox/)
+  - Sponsor: None, my pleasure ;)
