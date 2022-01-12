@@ -18,3 +18,8 @@ Let's invest in the folks who create the software that empowers us to create a l
   - Twitter: [@JJJ](https://twitter.com/JJJ)
   - WordPress: [@jjj](https://profiles.wordpress.org/jjj/)
   - Sponsor: [GitHub Sponsor Program](https://github.com/sponsors/JJJ)
+
+[William Patton](https://pattonwebz.com)
+  - Twitter: [@Will_Patton_88](https://twitter.com/Will_Patton_88)
+  - WordPress: [@williampatton](https://profiles.wordpress.org/williampatton/)
+  - Sponsor: [GitHub Sponsor Program](https://github.com/sponsors/pattonwebz)
