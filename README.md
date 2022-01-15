@@ -14,6 +14,11 @@ Let's invest in the folks who create the software that empowers us to create a l
   - WordPress: [@benmeredithgmailcom](https://profiles.wordpress.org/benmeredithgmailcom/)
   - Sponsor: [GiveWP Donation Page](https://benlikes.us/donate)
 
+[Jessica Lyschik](https://jessicalyschik.com/)
+  - Twitter: [@jessicalyschik](https://twitter.com/jessicalyschik)
+  - WordPress: [@luminuu](https://profiles.wordpress.org/luminuu/)
+  - Sponsor: [GitHub Sponsor Program](https://github.com/sponsors/luminuu)
+
 [John James Jacoby](https://jjj.blog/)
   - Twitter: [@JJJ](https://twitter.com/JJJ)
   - WordPress: [@jjj](https://profiles.wordpress.org/jjj/)
