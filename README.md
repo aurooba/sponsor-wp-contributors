@@ -29,6 +29,11 @@ Let's invest in the folks who create the software that empowers us to create a l
   - WordPress: [@jjj](https://profiles.wordpress.org/jjj/)
   - Sponsor: [GitHub Sponsor Program](https://github.com/sponsors/JJJ)
 
+[Luca Tumedei](https://theaveragedev.com/)
+  - Twitter: [@JJJ](https://twitter.com/lucatume)
+  - WordPress: [@lucatume](https://profiles.wordpress.org/lucatume/)
+  - Sponsor: [GitHub Sponsor Program](https://github.com/sponsors/lucatume)
+
 [William Patton](https://pattonwebz.com)
   - Twitter: [@Will_Patton_88](https://twitter.com/Will_Patton_88)
   - WordPress: [@williampatton](https://profiles.wordpress.org/williampatton/)
