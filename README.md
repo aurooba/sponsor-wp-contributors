@@ -19,7 +19,12 @@ Let's invest in the folks who create the software that empowers us to create a l
   - WordPress: [@luminuu](https://profiles.wordpress.org/luminuu/)
   - Sponsor: [GitHub Sponsor Program](https://github.com/sponsors/luminuu)
 
-[John James Jacoby](https://jjj.blog/)
+[Joe Dolson](https://jessicalyschik.com/)
+  - Twitter: [@joedolson](https://twitter.com/joedolson)
+  - WordPress: [@joedolson](https://profiles.wordpress.org/joedolson/)
+  - Sponsor: [GitHub Sponsor Program](https://github.com/sponsors/joedolson)
+
+[John James Jacoby](https://www.joedolson.com/)
   - Twitter: [@JJJ](https://twitter.com/JJJ)
   - WordPress: [@jjj](https://profiles.wordpress.org/jjj/)
   - Sponsor: [GitHub Sponsor Program](https://github.com/sponsors/JJJ)
