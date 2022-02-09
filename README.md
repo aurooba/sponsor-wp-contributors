@@ -44,6 +44,11 @@ Let's invest in the folks who create the software that empowers us to create a l
   - WordPress: [@pedromendonca](https://profiles.wordpress.org/pedromendonca/)
   - Sponsor: [GitHub Sponsor Program](https://github.com/sponsors/pedro-mendonca)
 
+Tetsuaki Hamano 
+  - Twitter: [@tetsuaki_hamano](https://twitter.com/tetsuaki_hamano)
+  - WordPress: [@wildworks](https://profiles.wordpress.org/wildworks/)
+  - Sponsor: [GitHub Sponsor Program](https://github.com/sponsors/t-hamano)
+
 [William Patton](https://pattonwebz.com)
   - Twitter: [@Will_Patton_88](https://twitter.com/Will_Patton_88)
   - WordPress: [@williampatton](https://profiles.wordpress.org/williampatton/)
