@@ -7,6 +7,9 @@
    - WordPress username
    - Support link (github sponsorship, buy me a coffee, patreon, etc)
 
+
+The list is alphabetized by first name. Please add yourself accordingly. :)
+
 ## Example
 
 [Aurooba Ahmed](https://aurooba.com)
