@@ -9,6 +9,11 @@ Let's invest in the folks who create the software that empowers us to create a l
   - WordPress: [@afragen](https://profiles.wordpress.org/afragen/)
   - Sponsor: [GitHub Sponsor Program](https://github.com/sponsors/afragen)
 
+[Aurooba Ahmed](https://aurooba.com/)
+  - Twitter: [@aurooba](https://twitter.com/aurooba)
+  - WordPress: [@aurooba](https://profiles.wordpress.org/aurooba/)
+  - Sponsor: [GitHub Sponsor Program](https://github.com/sponsors/aurooba)
+
 [Ben Meredith](https://benandjacq.com/)
   - Twitter: [@benUNC](https://twitter.com/benunc)
   - WordPress: [@benmeredithgmailcom](https://profiles.wordpress.org/benmeredithgmailcom/)
