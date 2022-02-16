@@ -18,7 +18,12 @@ Let's invest in the folks who create the software that empowers us to create a l
   - Twitter: [@benUNC](https://twitter.com/benunc)
   - WordPress: [@benmeredithgmailcom](https://profiles.wordpress.org/benmeredithgmailcom/)
   - Sponsor: [GiveWP Donation Page](https://benlikes.us/donate)
-  
+
+[Christina Workman](https://christinaworkman.ca/)
+  - Twitter: [@amethystanswers](https://twitter.com/amethystanswers)
+  - WordPress: [@amethystanswers](https://profiles.wordpress.org/amethystanswers/)
+  - Sponsor: [GitHub Sponsor Program](https://github.com/sponsors/christinaworkman)
+
 [Femy Praseeth](https://femKreations.com)
   - Twitter: [@femkreations](https://twitter.com/femkreations)
   - WordPress: [@femkreations](https://profiles.wordpress.org/femkreations/)
