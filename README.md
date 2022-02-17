@@ -39,6 +39,11 @@ Let's invest in the folks who create the software that empowers us to create a l
   - WordPress: [@joedolson](https://profiles.wordpress.org/joedolson/)
   - Sponsor: [GitHub Sponsor Program](https://github.com/sponsors/joedolson)
 
+[John Blackbourn](https://johnblackbourn.com/)
+  - Twitter: [@johnbillion](https://twitter.com/johnbillion)
+  - WordPress: [@johnbillion](https://profiles.wordpress.org/johnbillion/)
+  - Sponsor: [GitHub Sponsor Program](https://github.com/sponsors/johnbillion)
+
 [John James Jacoby](https://jjj.blog/)
   - Twitter: [@JJJ](https://twitter.com/JJJ)
   - WordPress: [@jjj](https://profiles.wordpress.org/jjj/)
