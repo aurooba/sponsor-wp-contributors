@@ -54,6 +54,11 @@ Let's invest in the folks who create the software that empowers us to create a l
   - WordPress: [@lucatume](https://profiles.wordpress.org/lucatume/)
   - Sponsor: [GitHub Sponsor Program](https://github.com/sponsors/lucatume)
 
+[Marius L. Jensen](https://www.clorith.net)
+  - Twitter: [@ClorithMJ](https://twitter.com/ClorithMJ)
+  - WordPress: [@lucatume](https://profiles.wordpress.org/clorith/)
+  - Sponsor: [GitHub Sponsor Program](https://github.com/sponsors/Clorith)
+
 [Pedro Mendonça](https://pedromendonca.pt)
   - Twitter: [@pedro_gaspar](https://twitter.com/pedro_gaspar)
   - WordPress: [@pedromendonca](https://profiles.wordpress.org/pedromendonca/)
