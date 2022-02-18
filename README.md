@@ -56,7 +56,7 @@ Let's invest in the folks who create the software that empowers us to create a l
 
 [Marius L. Jensen](https://www.clorith.net)
   - Twitter: [@ClorithMJ](https://twitter.com/ClorithMJ)
-  - WordPress: [@lucatume](https://profiles.wordpress.org/clorith/)
+  - WordPress: [@clorith](https://profiles.wordpress.org/clorith/)
   - Sponsor: [GitHub Sponsor Program](https://github.com/sponsors/Clorith)
 
 [Pedro Mendonça](https://pedromendonca.pt)
