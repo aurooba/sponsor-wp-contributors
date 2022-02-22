@@ -69,6 +69,11 @@ Tetsuaki Hamano
   - WordPress: [@wildworks](https://profiles.wordpress.org/wildworks/)
   - Sponsor: [GitHub Sponsor Program](https://github.com/sponsors/t-hamano)
 
+[Till Krüss](https://till.im)
+  - Twitter: [@tillkruss](https://twitter.com/tillkruss)
+  - WordPress: [@tillkruess](https://profiles.wordpress.org/tillkruess)
+  - Sponsor: [GitHub Sponsor Program](https://github.com/sponsors/tillkruss)
+
 [William Patton](https://pattonwebz.com)
   - Twitter: [@Will_Patton_88](https://twitter.com/Will_Patton_88)
   - WordPress: [@williampatton](https://profiles.wordpress.org/williampatton/)
