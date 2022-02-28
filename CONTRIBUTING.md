@@ -16,3 +16,12 @@ The list is alphabetized by first name. Please add yourself accordingly. :)
   - Twitter: [@aurooba](https://twitter.com/aurooba)
   - WordPress: [@aurooba](https://profiles.wordpress.org/aurooba)
   - Sponsor: [GitHub Sponsor Program](https://github.com/sponsors/aurooba)
+
+Copy this:
+
+```
+[Aurooba Ahmed](https://aurooba.com)
+  - Twitter: [@aurooba](https://twitter.com/aurooba)
+  - WordPress: [@aurooba](https://profiles.wordpress.org/aurooba)
+  - Sponsor: [GitHub Sponsor Program](https://github.com/sponsors/aurooba)
+```
