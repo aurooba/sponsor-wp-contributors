@@ -4,6 +4,11 @@ Let's invest in the folks who create the software that empowers us to create a l
 
 ## Contributors
 
+[Allie Nimmons](https://allienimmons.com)
+  - Twitter: [@allie_nimmons](https://twitter.com/allie_nimmons)
+  - WordPress: [@allienimmons](https://profiles.wordpress.org/allienimmons)
+  - Sponsor: [Buy Me a Coffee](https://www.buymeacoffee.com/rK7duH0)
+
 [Andy Fragen](https://thefragens.com/)
   - Twitter: [@andyfragen](https://twitter.com/andyfragen)
   - WordPress: [@afragen](https://profiles.wordpress.org/afragen/)
