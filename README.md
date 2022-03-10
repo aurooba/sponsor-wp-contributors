@@ -57,7 +57,7 @@ Let's invest in the folks who create the software that empowers us to create a l
 Kevin Batdorf
   - Twitter: [@kevinbatdorf](https://twitter.com/kevinbatdorf)
   - WordPress: [@kbat82](https://profiles.wordpress.org/kbat82)
-  - Sponsor: [GitHub Sponsor Program](https://github.com/kevinBatdorf)
+  - Sponsor: [GitHub Sponsor Program](https://github.com/sponsors/KevinBatdorf)
 
 [Luca Tumedei](https://theaveragedev.com/)
   - Twitter: [@lucatume](https://twitter.com/lucatume)
