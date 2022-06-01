@@ -15,7 +15,6 @@ Let's invest in the folks who create the software that empowers us to create a l
   - Sponsor: [GitHub Sponsor Program](https://github.com/sponsors/afragen)
 
 [Aslam Doctor](https://www.aslamdoctor.com)
-
   - Twitter: [@aslammdoctor](https://twitter.com/aslammdoctor)
   - WordPress: [@aslamdoctor](https://profiles.wordpress.org/aslamdoctor)
   - Sponsor: [GitHub Sponsor Program](https://github.com/sponsors/aslamdoctor)
