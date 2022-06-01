@@ -94,4 +94,3 @@ Tetsuaki Hamano
   - Twitter: [@Will_Patton_88](https://twitter.com/Will_Patton_88)
   - WordPress: [@williampatton](https://profiles.wordpress.org/williampatton/)
   - Sponsor: [GitHub Sponsor Program](https://github.com/sponsors/pattonwebz)
-
