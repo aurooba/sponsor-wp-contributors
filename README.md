@@ -14,6 +14,11 @@ Let's invest in the folks who create the software that empowers us to create a l
   - WordPress: [@afragen](https://profiles.wordpress.org/afragen/)
   - Sponsor: [GitHub Sponsor Program](https://github.com/sponsors/afragen)
 
+[Aslam Doctor](https://www.aslamdoctor.com)
+  - Twitter: [@aslammdoctor](https://twitter.com/aslammdoctor)
+  - WordPress: [@aslamdoctor](https://profiles.wordpress.org/aslamdoctor)
+  - Sponsor: [GitHub Sponsor Program](https://github.com/sponsors/aslamdoctor)
+
 [Aurooba Ahmed](https://aurooba.com/)
   - Twitter: [@aurooba](https://twitter.com/aurooba)
   - WordPress: [@aurooba](https://profiles.wordpress.org/aurooba/)
@@ -88,5 +93,3 @@ Tetsuaki Hamano
   - Twitter: [@Will_Patton_88](https://twitter.com/Will_Patton_88)
   - WordPress: [@williampatton](https://profiles.wordpress.org/williampatton/)
   - Sponsor: [GitHub Sponsor Program](https://github.com/sponsors/pattonwebz)
-
-
