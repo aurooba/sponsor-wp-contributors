@@ -29,6 +29,12 @@ Let's invest in the folks who create the software that empowers us to create a l
   - WordPress: [@benmeredithgmailcom](https://profiles.wordpress.org/benmeredithgmailcom/)
   - Sponsor: [GiveWP Donation Page](https://benlikes.us/donate)
 
+
+[Carl Alexander](https://carlalexander.ca/)
+  - Twitter: [@twigpress](https://twitter.com/twigpress)
+  - WordPress: [@carlalexander](https://profiles.wordpress.org/carlalexander/)
+  - Sponsor: [GitHub Sponsor Program](https://github.com/sponsors/carlalexander)
+
 [Christina Workman](https://christinaworkman.ca/)
   - Twitter: [@amethystanswers](https://twitter.com/amethystanswers)
   - WordPress: [@amethystanswers](https://profiles.wordpress.org/amethystanswers/)
