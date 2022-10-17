@@ -75,8 +75,8 @@ Kevin Batdorf
   - Sponsor: [GitHub Sponsor Program](https://github.com/sponsors/Clorith)
 
 [Meagan Hanes](https://meaganhanes.com)
-  - Twitter: [@aurooba](https://twitter.com/mhanes)
-  - WordPress: [@aurooba](https://profiles.wordpress.org/meaganhanes)
+  - Twitter: [@mhanes](https://twitter.com/mhanes)
+  - WordPress: [@meaganhanes](https://profiles.wordpress.org/meaganhanes)
   - Sponsor: [GitHub Sponsor Program](https://github.com/sponsors/meaganhanes)
 
 [Pedro Mendonça](https://pedromendonca.pt)
