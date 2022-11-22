@@ -29,7 +29,6 @@ Let's invest in the folks who create the software that empowers us to create a l
   - WordPress: [@benmeredithgmailcom](https://profiles.wordpress.org/benmeredithgmailcom/)
   - Sponsor: [GiveWP Donation Page](https://benlikes.us/donate)
 
-
 [Carl Alexander](https://carlalexander.ca/)
   - Twitter: [@twigpress](https://twitter.com/twigpress)
   - WordPress: [@carlalexander](https://profiles.wordpress.org/carlalexander/)
@@ -79,6 +78,11 @@ Kevin Batdorf
   - Twitter: [@ClorithMJ](https://twitter.com/ClorithMJ)
   - WordPress: [@clorith](https://profiles.wordpress.org/clorith/)
   - Sponsor: [GitHub Sponsor Program](https://github.com/sponsors/Clorith)
+  
+[Meagan Hanes](https://meaganhanes.com)
+  - Twitter: [@mhanes](https://twitter.com/mhanes)
+  - WordPress: [@meaganhanes](https://profiles.wordpress.org/meaganhanes)
+  - Sponsor: [GitHub Sponsor Program](https://github.com/sponsors/meaganhanes)
 
 [Pedro Mendonça](https://pedromendonca.pt)
   - Twitter: [@pedro_gaspar](https://twitter.com/pedro_gaspar)
