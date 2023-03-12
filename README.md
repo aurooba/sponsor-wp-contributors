@@ -35,9 +35,9 @@ Let's invest in the folks who create the software that empowers us to create a l
   - Sponsor: [GitHub Sponsor Program](https://github.com/sponsors/carlalexander)
   
 [Chris Wiegman](https://chriswiegman.com)
-- Mastodon: [@chris@mastodon.chriswiegman.com](https://mastodon.chriswiegman.com/@chris)
-- WordPress: [@chriswiegman](https://profiles.wordpress.org/chriswiegman)
-- Sponsor: [GitHub Sponsor Program](https://github.com/sponsors/ChrisWiegman)
+  - Mastodon: [@chris@mastodon.chriswiegman.com](https://mastodon.chriswiegman.com/@chris)
+  - WordPress: [@chriswiegman](https://profiles.wordpress.org/chriswiegman)
+  - Sponsor: [GitHub Sponsor Program](https://github.com/sponsors/ChrisWiegman)
 
 [Christina Workman](https://christinaworkman.ca/)
   - Twitter: [@amethystanswers](https://twitter.com/amethystanswers)
