@@ -98,6 +98,11 @@ Kevin Batdorf
   - Twitter: [@pedro_gaspar](https://twitter.com/pedro_gaspar)
   - WordPress: [@pedromendonca](https://profiles.wordpress.org/pedromendonca/)
   - Sponsor: [GitHub Sponsor Program](https://github.com/sponsors/pedro-mendonca)
+  
+[Tammie Lister](https://tammielister.com)
+  - Twitter: [@karmatosed](https://twitter.com/karmatosed)
+  - WordPress: [@karmatosed](https://profiles.wordpress.org/karmatosed)
+  - Sponsor: [GitHub Sponsor Program](https://github.com/sponsors/karmatosed)
 
 Tetsuaki Hamano 
   - Twitter: [@tetsuaki_hamano](https://twitter.com/tetsuaki_hamano)
