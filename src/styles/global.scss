@@ -50,8 +50,14 @@ main {
 	margin: 0 auto;
 	max-width: 60rem;
 	padding: var(--space-s);
+	display: flex;
+	min-height: 100vh;
+  	flex-direction: column;
 	& > * + * {
 		margin-top: var(--flow);
+	}
+	.site-content {
+		flex: 1;
 	}
 }
 
@@ -90,4 +96,9 @@ a {
 	&:hover {
 		color: var(--secondary)
 	}
+}
+
+footer {
+	text-align: center;
+	padding: var(--space-m);
 }
