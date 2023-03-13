@@ -74,6 +74,11 @@ Let's invest in the folks who create the software that empowers us to create a l
   - WordPress: [@jjj](https://profiles.wordpress.org/jjj/)
   - Sponsor: [GitHub Sponsor Program](https://github.com/sponsors/JJJ)
 
+[Jonny Harris](https://www.spacedmonkey.com/)
+  - Twitter: [@thespacedmonkey](https://twitter.com/thespacedmonkey)
+  - WordPress: [@spacedmonkey](https://profiles.wordpress.org/spacedmonkey/)
+  - Sponsor: [GitHub Sponsor Program](https://github.com/sponsors/spacedmonkey)
+
 Kevin Batdorf
   - Twitter: [@kevinbatdorf](https://twitter.com/kevinbatdorf)
   - WordPress: [@kbat82](https://profiles.wordpress.org/kbat82)
