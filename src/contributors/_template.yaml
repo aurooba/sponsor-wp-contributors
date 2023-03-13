@@ -1,0 +1,14 @@
+name: Placeholder
+url:
+links:
+  - item:
+      type: Twitter
+      handle:
+      url: https://twitter.com/
+  - item:
+      type: WordPress
+      handle:
+      url: https://profiles.wordpress.org/
+sponsor:
+  type: GitHub Sponsor Program
+  url: https://github.com/sponsors/

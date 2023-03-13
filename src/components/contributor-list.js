@@ -40,9 +40,11 @@ const ContributorList = () => {
 	return (
 		<>
 			{alphabetizedData.map((edge, index) => {
-				return (
-					<Contributor key={index} contributor={edge.node} theKey={index} />
-				);
+				if (edge.node.name !== "Placeholder") {
+					return (
+						<Contributor key={index} contributor={edge.node} theKey={index} />
+					);
+				}
 			})}
 		</>
 	);
