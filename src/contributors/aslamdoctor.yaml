@@ -1,0 +1,14 @@
+name: Aslam Doctor
+url: https://www.aslamdoctor.com
+links:
+  - item:
+      type: Twitter
+      handle: aslammdoctor
+      url: https://twitter.com/aslammdoctor
+  - item:
+      type: WordPress
+      handle: aslamdoctor
+      url: https://profiles.wordpress.org/aslamdoctor
+sponsor:
+  type: GitHub Sponsor Program
+  url: https://github.com/sponsors/aslamdoctor

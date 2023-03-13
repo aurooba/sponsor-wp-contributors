@@ -1,0 +1,93 @@
+:root {
+	--primary: #05565D;
+	--secondary: #649662;
+	--background: #ececec;
+	--foreground: #000;
+	--font-stack: system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+
+	--step--2: clamp(0.78rem, calc(0.78rem + 0.03vw), 0.80rem);
+	--step--1: clamp(0.94rem, calc(0.92rem + 0.09vw), 1.00rem);
+	--step-0: clamp(1.13rem, calc(1.09rem + 0.18vw), 1.25rem);
+	--step-1: clamp(1.35rem, calc(1.29rem + 0.30vw), 1.56rem);
+	--step-2: clamp(1.62rem, calc(1.52rem + 0.48vw), 1.95rem);
+	--step-3: clamp(1.94rem, calc(1.80rem + 0.71vw), 2.44rem);
+	--step-4: clamp(2.33rem, calc(2.13rem + 1.03vw), 3.05rem);
+	--step-5: clamp(2.80rem, calc(2.51rem + 1.45vw), 3.82rem);
+
+	--space-3xs: clamp(0.31rem, calc(0.31rem + 0.00vw), 0.31rem);
+	--space-2xs: clamp(0.56rem, calc(0.54rem + 0.09vw), 0.63rem);
+	--space-xs: clamp(0.88rem, calc(0.86rem + 0.09vw), 0.94rem);
+	--space-s: clamp(1.13rem, calc(1.09rem + 0.18vw), 1.25rem);
+	--space-m: clamp(1.69rem, calc(1.63rem + 0.27vw), 1.88rem);
+	--space-l: clamp(2.25rem, calc(2.18rem + 0.36vw), 2.50rem);
+	--space-xl: clamp(3.38rem, calc(3.27rem + 0.54vw), 3.75rem);
+	--space-2xl: clamp(4.50rem, calc(4.36rem + 0.71vw), 5.00rem);
+	--space-3xl: clamp(6.75rem, calc(6.54rem + 1.07vw), 7.50rem);
+
+	/* One-up pairs */
+	--space-3xs-2xs: clamp(0.31rem, calc(0.22rem + 0.45vw), 0.63rem);
+	--space-2xs-xs: clamp(0.56rem, calc(0.46rem + 0.54vw), 0.94rem);
+	--space-xs-s: clamp(0.88rem, calc(0.77rem + 0.54vw), 1.25rem);
+	--space-s-m: clamp(1.13rem, calc(0.91rem + 1.07vw), 1.88rem);
+	--space-m-l: clamp(1.69rem, calc(1.46rem + 1.16vw), 2.50rem);
+	--space-l-xl: clamp(2.25rem, calc(1.82rem + 2.14vw), 3.75rem);
+	--space-xl-2xl: clamp(3.38rem, calc(2.91rem + 2.32vw), 5.00rem);
+	--space-2xl-3xl: clamp(4.50rem, calc(3.64rem + 4.29vw), 7.50rem);
+
+	--flow: var(--space-m, 1rem);
+}
+
+body {
+	background-color: var(--background);
+	color: var(--foreground);
+	font-family: var(--font-stack);
+	font-size: var(--step-1);
+	line-height: 1.5;
+	margin: 0;
+}
+
+main {
+	margin: 0 auto;
+	max-width: 60rem;
+	padding: var(--space-s);
+	& > * + * {
+		margin-top: var(--flow);
+	}
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-weight: 500;
+	line-height: 1.2;
+	margin: 0;
+}
+
+h1 {
+	text-align: center;
+	padding: var(--space-l);
+}
+
+.contributor-list {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+	gap: var(--flow);
+}
+
+.contributor {
+	display: flex;
+	flex-direction: column;
+	gap: var(--flow);
+	background-color: #fff;
+	padding: var(--space-s);
+	&__links {
+		list-style: none;
+		margin: 0;
+		padding: 0;
+	}
+}
+
+a {
+	color: var(--primary);
+	&:hover {
+		color: var(--secondary)
+	}
+}

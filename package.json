@@ -1,0 +1,26 @@
+{
+  "name": "sponsor-wp-contributors",
+  "version": "1.0.0",
+  "private": true,
+  "description": "sponsor-wp-contributors",
+  "author": "Aurooba Ahmed",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "dependencies": {
+    "gatsby": "^5.7.0",
+    "gatsby-plugin-sass": "^6.7.0",
+    "gatsby-source-filesystem": "^5.7.0",
+    "gatsby-transformer-yaml": "^5.7.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "sass": "^1.59.2"
+  }
+}

@@ -1,0 +1,18 @@
+name: Aurooba Ahmed
+url: https://aurooba.com
+links:
+  - item:
+      type: Twitter
+      handle: aurooba
+      url: https://twitter.com/aurooba
+  - item:
+      type: Mastodon
+      handle: aurooba
+      url: https://mastodon.aurooba.com/@aurooba
+  - item:
+      type: WordPress
+      handle: aurooba
+      url: https://profiles.wordpress.org/aurooba
+sponsor:
+  type: GitHub Sponsor Program
+  url: https://github.com/sponsors/aurooba
