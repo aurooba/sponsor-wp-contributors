@@ -54,6 +54,11 @@ Let's invest in the folks who create the software that empowers us to create a l
   - WordPress: [@femkreations](https://profiles.wordpress.org/femkreations/)
   - Sponsor: [GitHub Sponsor Program](https://github.com/sponsors/femkreations)
 
+[Harsh Trivedi](https://harsh98trivedi.github.io/)
+  - Twitter: [@harsh98trivedi](https://twitter.com/harsh98trivedi)
+  - WordPress: [@harsh98trivedi](https://profiles.wordpress.org/harsh98trivedi)
+  - Sponsor: [GitHub Sponsor Program](https://github.com/sponsors/harsh98trivedi)
+
 [Jessica Lyschik](https://jessicalyschik.com/)
   - Twitter: [@jessicalyschik](https://twitter.com/jessicalyschik)
   - WordPress: [@luminuu](https://profiles.wordpress.org/luminuu/)
