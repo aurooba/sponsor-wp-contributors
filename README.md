@@ -44,6 +44,11 @@ Let's invest in the folks who create the software that empowers us to create a l
   - WordPress: [@amethystanswers](https://profiles.wordpress.org/amethystanswers/)
   - Sponsor: [GitHub Sponsor Program](https://github.com/sponsors/christinaworkman)
 
+Colin Stewart
+  - Twitter: [@cost_dev](https://twitter.com/costdev)
+  - WordPress: [@costdev](https://profiles.wordpress.org/costdev)
+  - Sponsor: [GitHub Sponsor Program](https://github.com/sponsors/costdev)
+
 [Daisy Olsen](https://daisyonwp.com)
   - Twitter: [@daisyolsen](https://twitter.com/daisyolsen)
   - WordPress: [@daisyo](https://profiles.wordpress.org/daisyo)
