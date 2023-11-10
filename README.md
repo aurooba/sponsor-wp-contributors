@@ -4,6 +4,11 @@ Let's invest in the folks who create the software that empowers us to create a l
 
 ## Contributors
 
+[Aaron Jorbin](https://aaron.jorb.in)
+  - Twitter: [@allie_nimmons](https://twitter.com/aaronjorbin)
+  - WordPress: [@allienimmons](https://profiles.wordpress.org/jorbin)
+  - Sponsor: [GitHub Sponsor Program](https://github.com/sponsors/aaronjorbin)
+
 [Allie Nimmons](https://allienimmons.com)
   - Twitter: [@allie_nimmons](https://twitter.com/allie_nimmons)
   - WordPress: [@allienimmons](https://profiles.wordpress.org/allienimmons)
