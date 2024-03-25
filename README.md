@@ -114,6 +114,11 @@ Kevin Batdorf
   - WordPress: [@meaganhanes](https://profiles.wordpress.org/meaganhanes)
   - Sponsor: [GitHub Sponsor Program](https://github.com/sponsors/meaganhanes)
 
+[Patrick Lumumba](https://wpcorner.co/author/patrick-l/)
+  - Twitter: [@lumiblog](https://twitter.com/lumiblog)
+  - WordPress: [@pedromendonca](https://profiles.wordpress.org/lumiblog/)
+  - Sponsor: [GitHub Sponsor Program](https://github.com/sponsors/lumumbapl)
+
 [Pedro Mendonça](https://pedromendonca.pt)
   - Twitter: [@pedro_gaspar](https://twitter.com/pedro_gaspar)
   - WordPress: [@pedromendonca](https://profiles.wordpress.org/pedromendonca/)
