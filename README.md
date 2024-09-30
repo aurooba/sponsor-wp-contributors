@@ -116,7 +116,7 @@ Kevin Batdorf
 
 [Patrick Lumumba](https://wpcorner.co/author/patrick-l/)
   - Twitter: [@lumiblog](https://twitter.com/lumiblog)
-  - WordPress: [@pedromendonca](https://profiles.wordpress.org/lumiblog/)
+  - WordPress: [@lumiblog](https://profiles.wordpress.org/lumiblog/)
   - Sponsor: [GitHub Sponsor Program](https://github.com/sponsors/lumumbapl)
 
 [Pedro Mendonça](https://pedromendonca.pt)
