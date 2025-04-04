@@ -123,6 +123,11 @@ Kevin Batdorf
   - Twitter: [@pedro_gaspar](https://twitter.com/pedro_gaspar)
   - WordPress: [@pedromendonca](https://profiles.wordpress.org/pedromendonca/)
   - Sponsor: [GitHub Sponsor Program](https://github.com/sponsors/pedro-mendonca)
+
+[Prashant Baldha](https://prashantwp.com/)
+  - Twitter: [@prashant_baldha](https://x.com/prashant_baldha)
+  - WordPress: [@pmbaldha](https://profiles.wordpress.org/pmbaldha)
+  - Sponsor: [GitHub Sponsor Program](https://github.com/sponsors/pmbaldha)
   
 [Tammie Lister](https://tammielister.com)
   - Twitter: [@karmatosed](https://twitter.com/karmatosed)
