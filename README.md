@@ -129,11 +129,7 @@ Kevin Batdorf
   - WordPress: [@pmbaldha](https://profiles.wordpress.org/pmbaldha)
   - Sponsor: [GitHub Sponsor Program](https://github.com/sponsors/pmbaldha)
 
-[Satyam Vishwakarma](https://satyamvishwakarma.com/)
-  - Twitter: [@ask_hellosatya](https://x.com/ask_hellosatya)
-  - LinkedIn: [Satyam Vishwakarma](https://www.linkedin.com/in/satyamvishwakarma/)
-  - WordPress: [@hellosatya](https://profiles.wordpress.org/hellosatya/)
-  - Sponsor: [GitHub Sponsor Program](https://github.com/sponsors/askhellosatya)
+
   
 [Tammie Lister](https://tammielister.com)
   - Twitter: [@karmatosed](https://twitter.com/karmatosed)
