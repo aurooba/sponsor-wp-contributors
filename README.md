@@ -150,6 +150,13 @@ Tetsuaki Hamano
   - WordPress: [@tillkruess](https://profiles.wordpress.org/tillkruess)
   - Sponsor: [GitHub Sponsor Program](https://github.com/sponsors/tillkruss)
 
+[Weston Ruter](https://weston.ruter.net/)
+  - Bluesky: [@weston.ruter.net](https://bsky.app/profile/weston.ruter.net)
+  - [LinkedIn](https://www.linkedin.com/in/westonruter/)
+  - Twitter: [@westonruter](https://x.com/westonruter)
+  - WordPress: [@westonruter](https://profile.wordpress.org/westonruter)
+  - Sponsor: [GitHub Sponsor Program](https://github.com/sponsors/westonruter)
+
 [William Patton](https://pattonwebz.com)
   - Twitter: [@Will_Patton_88](https://twitter.com/Will_Patton_88)
   - WordPress: [@williampatton](https://profiles.wordpress.org/williampatton/)
