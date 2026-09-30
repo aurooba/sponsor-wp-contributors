@@ -114,6 +114,11 @@ Kevin Batdorf
   - WordPress: [@meaganhanes](https://profiles.wordpress.org/meaganhanes)
   - Sponsor: [GitHub Sponsor Program](https://github.com/sponsors/meaganhanes)
 
+Mukesh Panchal
+  - Twitter: [@mukeshpanchal27](https://x.com/mukeshpanchal27/)
+  - WordPress: [@mukesh27](https://profiles.wordpress.org/mukesh27/)
+  - Sponsor: [GitHub Sponsor Program](https://github.com/sponsors/mukeshpanchal27/)
+
 [Patrick Lumumba](https://wpcorner.co/author/patrick-l/)
   - Twitter: [@lumiblog](https://twitter.com/lumiblog)
   - WordPress: [@lumiblog](https://profiles.wordpress.org/lumiblog/)
