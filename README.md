@@ -134,6 +134,11 @@ Kevin Batdorf
   - LinkedIn: [Satyam Vishwakarma](https://www.linkedin.com/in/satyamvishwakarma/)
   - WordPress: [@hellosatya](https://profiles.wordpress.org/hellosatya/)
   - Sponsor: [GitHub Sponsor Program](https://github.com/sponsors/askhellosatya)
+
+Shail Mehta
+  - Twitter: [@shailumehta25](https://x.com/shailumehta25)
+  - WordPress: [@shailu25](https://profiles.wordpress.org/shailu25/)
+  - Sponsor: [GitHub Sponsor Program](https://github.com/sponsors/shail-mehta)
   
 [Tammie Lister](https://tammielister.com)
   - Twitter: [@karmatosed](https://twitter.com/karmatosed)
