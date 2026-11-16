@@ -69,6 +69,11 @@ Colin Stewart
   - WordPress: [@harsh98trivedi](https://profiles.wordpress.org/harsh98trivedi)
   - Sponsor: [GitHub Sponsor Program](https://github.com/sponsors/harsh98trivedi)
 
+[Huzaifa Al Mesbah](https://huzaifa.bd)
+  - Twitter: [@HuzaifaV2](https://x.com/HuzaifaV2)
+  - WordPress: [@huzaifaalmesbah](https://profiles.wordpress.org/huzaifaalmesbah/)
+  - Sponsor: [Sponsor page](https://huzaifa.bd/sponsor/)
+
 [Jessica Lyschik](https://jessicalyschik.com/)
   - Twitter: [@jessicalyschik](https://twitter.com/jessicalyschik)
   - WordPress: [@luminuu](https://profiles.wordpress.org/luminuu/)
